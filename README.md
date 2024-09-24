@@ -49,10 +49,3 @@ The OWASP Top 10 is a list of the most critical security risks to web applicatio
 - **Project:** [Insufficient Logging and Monitoring](https://github.com/yourusername/insufficient-logging-example)
 - **Description:** Demonstrates how a lack of logging and monitoring can lead to undetected attacks.
 
-## **Getting Started**
-To get started with web application testing, follow these steps:
-
-1. Clone this repository:
-   ```bash
-   git clone https://github.com/yourusername/web-application-testing.git
-   cd web-application-testing
