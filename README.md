@@ -7,7 +7,7 @@
 Web Application Testing is crucial in identifying and mitigating security vulnerabilities in web applications. This repository provides insights, tools, and examples for testing common vulnerabilities listed in the [OWASP Top 10](https://owasp.org/www-project-top-ten/).
 
 ## **OWASP Top 10 Vulnerabilities**
-The OWASP Top 10 is a list of the most critical security risks to web applications. Below are some projects that demonstrate how to identify and exploit these vulnerabilities:
+List of the most critical security risks to web applications. Below are some projects that demonstrate how to identify and exploit these vulnerabilities:
 
 ### **1. Injection**
 - **Project:** [SQL Injection Vulnerability](https://github.com/yourusername/sql-injection-example)
